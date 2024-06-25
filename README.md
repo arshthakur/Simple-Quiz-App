@@ -13,7 +13,7 @@ The **Simple Quiz App** is a basic web application that allows users to take qui
 
 ## Demo
 
-[Simple Quiz App](images/Screenshot.png)
+[Simple Quiz App](http://192.168.1.9:63657/index.html)
 
 ## Screenshots
 

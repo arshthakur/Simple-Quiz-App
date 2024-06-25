@@ -13,12 +13,12 @@ The **Simple Quiz App** is a basic web application that allows users to take qui
 
 ## Demo
 
-[Simple Quiz App](Screenshot.png)
+[Simple Quiz App](images/Screenshot.png)
 
 ## Screenshots
 
-![Simple Quiz App](Screenshot.png)
-![Working](Screenshot2.png)
+![Working](images/Screenshot2.png)
+![Displaying Scores](images/DisplayScore.png)
 
 ## Installation
 
@@ -66,10 +66,6 @@ Contributions are welcome! To contribute to this project, follow these steps:
    git push origin feature-branch
    ```
 6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
